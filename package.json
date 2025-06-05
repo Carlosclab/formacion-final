@@ -8,6 +8,6 @@
     "build": "echo 'No build step required'"
   },
   "keywords": ["derechos humanos", "interdependencia", "constitucional", "udea"],
-  "author": "[Tu Nombre]",
+  "author": "Carlos Forero",
   "license": "MIT"
 }
