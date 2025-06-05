@@ -1,0 +1,13 @@
+{
+  "name": "interdependencia-derechos-t106",
+  "version": "1.0.0",
+  "description": "Análisis interactivo del caso T-106/2025 sobre interdependencia de derechos",
+  "main": "index.html",
+  "scripts": {
+    "start": "vercel dev",
+    "build": "echo 'No build step required'"
+  },
+  "keywords": ["derechos humanos", "interdependencia", "constitucional", "udea"],
+  "author": "[Tu Nombre]",
+  "license": "MIT"
+}
